@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/chzyer/readline"
+	"github.com/acatton/goreadline-ng"
 )
 import "log"
 

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/chzyer/readline"
+	"github.com/acatton/goreadline-ng"
 )
 
 func usage(w io.Writer) {
