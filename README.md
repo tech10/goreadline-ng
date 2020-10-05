@@ -15,7 +15,9 @@ happy to assist them in doing that.
 
 We are very grateful towards [chzyer](https://github.com/chzyer)'s original work.
 
+## Improvements over the original
 
+* Switched to [Go modules 1.11](https://blog.golang.org/using-go-modules)
 
 # Guide
 
