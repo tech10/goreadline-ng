@@ -91,7 +91,6 @@ func (o *opHistory) historyUpdatePath(path string) {
 	}
 	o.historyVer++
 	o.Push(nil)
-	return
 }
 
 func (o *opHistory) Compact() {
